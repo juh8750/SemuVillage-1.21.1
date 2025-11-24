@@ -1,0 +1,7 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"farmersdelight:stove"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"pamhc2crops:juteitem"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"pamhc2crops:juteseeditem"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"mcwholidays:garland_red_lights"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]
